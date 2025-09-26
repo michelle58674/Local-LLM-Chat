@@ -14,3 +14,4 @@ Notes and usage details for Local-LLM-Chat.
 - link the usage section
 - link the usage section
 - link the usage section
+- add a note about the defaults
