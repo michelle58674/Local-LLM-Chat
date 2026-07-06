@@ -48,3 +48,4 @@ Notes and usage details for Local-LLM-Chat.
 - clarify the setup steps
 - add a note about the defaults
 - fix a small wording issue
+- fix a small wording issue
