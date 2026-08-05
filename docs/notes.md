@@ -60,3 +60,4 @@ Notes and usage details for Local-LLM-Chat.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- link the usage section
